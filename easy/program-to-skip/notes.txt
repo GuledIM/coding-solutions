@@ -1,0 +1,2 @@
+Can use this type of code to check for duplicates before entering infomration into databses etc
+The cleaned print version will add the strin together to print cleanly this can be use when cleaning files and transforamtion etc 
