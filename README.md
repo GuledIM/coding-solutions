@@ -5,7 +5,6 @@ This repository contains my solutions to Coding problems, categorized by difficu
 ## Languages Used
 
 - Python (primary)
-- [Optional] Add C++, Java, etc. if applicable
 
 ## 📁 Folder Structure
 
