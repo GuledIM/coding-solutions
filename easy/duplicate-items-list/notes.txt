@@ -1,0 +1,2 @@
+This was an exercise to use splicing, understand how the sotrage of lists compares to normal variables and some basic logic operation. 
+With the main task to create a program which removes all the number repetitions from the list
